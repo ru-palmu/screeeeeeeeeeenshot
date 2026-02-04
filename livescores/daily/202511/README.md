@@ -1,8 +1,5 @@
 # 2025-11
 
-
-## 2025-11
-
 | 日付 | 画像 | ランク数 |
 |:----:|:----:|----:|
 | 2025-11-01 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202511.daily-livescores/20251101-rank.png) | 300 |
