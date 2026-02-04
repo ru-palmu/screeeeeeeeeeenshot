@@ -17,5 +17,5 @@
 | 2025-10-27 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251027-rank.png) | 170 |
 | 2025-10-28 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251028-rank.png) | 143 |
 | 2025-10-29 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251029-rank.png) | 300 |
-| 2025-10-30 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251030-rank.png) | 200 |
-| 2025-10-31 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251031-rank.png) | 95 |
+| 2025-10-30 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251030-rank.png) | 299 |
+| 2025-10-31 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251031-rank.png) | 142 |
