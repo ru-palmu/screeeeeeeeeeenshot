@@ -2,7 +2,7 @@
 
 
 | 日付 | 画像 | ランク数 |
-|----|----|----|
+|:----:|:----:|----:|
 | 2025-10-11 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251011-rank.png) | 142 |
 | 2025-10-12 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251012-rank.png) | 190 |
 | 2025-10-13 | [link](https://github.com/ru-palmu/screeeeeeeeeeenshot/releases/download/202510.daily-livescores/20251013-rank.png) | 191 |
